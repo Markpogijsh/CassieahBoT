@@ -17,10 +17,10 @@
     "note": "When enabled, this will allow you to customize certain styles of bot responses. {word} represents non-emoji texts and {emojis} represents emojis. Change the TITLE_PATTERN to your likings.",
     "TITLE_PATTERN": "{emojis}【 {word} 】{emojis}"
   },
-  "LOGO": "",
-  "ADMINBOT": ["100075058221244", "YOUR_UID"],
+  "LOGO": "🌌KEIJO AI",
+  "ADMINBOT": ["61579032975023"],
   "EXTRAPREFIX": ["_"],
-  "MODERATORBOT": [],
+  "MODERATORBOT": [61579032975023],
   "exitOnError": false,
   "WEB_PASSWORD": "wsshiagwvkljijxxsvddidbdib+_*77s",
   "discordBotToken": "",
